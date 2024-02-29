@@ -1,0 +1,155 @@
+{
+    "episodes": [
+      {
+        "episodeId": 1,
+        "texts": [
+          {
+            "id": 1,
+            "title": "Qui-Gon Jinn",
+            "content": "Jedi Master Qui-Gon Jinn discovers the young Anakin Skywalker on Tatooine."
+          },
+          {
+            "id": 2,
+            "title": "Podracing",
+            "content": "Anakin Skywalker participates in the dangerous sport of podracing to win his freedom."
+          },
+          {
+            "id": 3,
+            "title": "Duel of the Fates",
+            "content": "The epic lightsaber duel between Qui-Gon Jinn, Obi-Wan Kenobi, and Darth Maul."
+          }
+        ],
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/en/a/ad/Qui-Gon_Jinn.png",
+          "https://www.slashfilm.com/img/gallery/creating-the-podracing-scene-for-star-wars-the-phantom-menace-was-a-long-collaborative-process/l-intro-1672257966.jpg",
+          "https://static.wikia.nocookie.net/duels/images/b/b5/5509dbffecad04da08cdcdf0.webp"
+        ]
+      },
+      {
+        "episodeId": 2,
+        "texts": [
+          {
+            "id": 4,
+            "title": "Clone Army",
+            "content": "The discovery of a secret clone army created for the Republic."
+          },
+          {
+            "id": 5,
+            "title": "Forbidden Love",
+            "content": "Anakin Skywalker and Padmé Amidala's romance amidst the backdrop of galactic turmoil."
+          },
+          {
+            "id": 6,
+            "title": "Battle of Geonosis",
+            "content": "The first battle of the Clone Wars on the desert planet of Geonosis."
+          }
+        ],
+        "images": [
+          "https://static.wikia.nocookie.net/starwars/images/b/bf/Grand_Army_of_the_Republic.png",
+          "https://static.wikia.nocookie.net/starwars/images/1/10/ForbiddenLove-SWI63.png",
+          "https://i.kinja-img.com/image/upload/c_fit,q_60,w_645/3993c21a607fa7c92f5ca2926d5f6605.jpg"
+        ]
+      },
+      {
+        "episodeId": 3,
+        "texts": [
+          {
+            "id": 7,
+            "title": "Order 66",
+            "content": "The execution of Order 66, leading to the fall of the Jedi Order."
+          },
+          {
+            "id": 8,
+            "title": "Birth of Darth Vader",
+            "content": "Anakin Skywalker's transformation into the Sith Lord Darth Vader."
+          },
+          {
+            "id": 9,
+            "title": "The Tragedy of Darth Plagueis",
+            "content": "Palpatine reveals the tragedy of Darth Plagueis to lure Anakin to the dark side."
+          }
+        ],
+        "images": [
+          "https://lumiere-a.akamaihd.net/v1/images/image_61e929ee.jpeg",
+          "https://i.ytimg.com/vi/UPAxTR_b4Qc/maxresdefault.jpg",
+          "https://static.wikia.nocookie.net/starwars/images/c/c3/Tragedy.jpg"
+        ]
+      },
+      {
+        "episodeId": 4,
+        "texts": [
+          {
+            "id": 10,
+            "title": "Rescue of Princess Leia",
+            "content": "Luke Skywalker and Han Solo rescue Princess Leia from the clutches of the Empire."
+          },
+          {
+            "id": 11,
+            "title": "Destruction of Alderaan",
+            "content": "The Empire's demonstration of the Death Star's power by destroying Alderaan."
+          },
+          {
+            "id": 12,
+            "title": "Trench Run",
+            "content": "The Rebel Alliance's daring trench run to destroy the Death Star."
+          }
+        ],
+        "images": [
+          "https://static.wikia.nocookie.net/starwars/images/b/b4/LukeLeiaDS1.jpg",
+          "https://static.wikia.nocookie.net/starwars/images/c/c7/DestructionOfAlderaan-ANH.png",
+          "https://blenderartists.org/uploads/default/original/4X/b/3/9/b3913a87f1208dca619640293690394eb40f8ed8.jpg"
+        ]
+      },
+      {
+        "episodeId": 5,
+        "texts": [
+          {
+            "id": 13,
+            "title": "Battle of Hoth",
+            "content": "The Rebel Alliance's defense against the Empire's assault on the icy planet of Hoth."
+          },
+          {
+            "id": 14,
+            "title": "Darth Vader Revealed",
+            "content": "The revelation of Darth Vader's true identity to Luke Skywalker on Cloud City."
+          },
+          {
+            "id": 15,
+            "title": "Escape from Bespin",
+            "content": "Luke Skywalker's daring escape from Cloud City after his duel with Darth Vader."
+          }
+        ],
+        "images": [
+          "https://static.wikia.nocookie.net/starwars/images/6/67/Battle_of_Hoth.jpg",
+          "https://cdn.images.express.co.uk/img/dynamic/36/590x/1078697_1.jpg",
+          "https://i.ytimg.com/vi/yf60PoXcAy4/maxresdefault.jpg"
+        ]
+      },
+      {
+        "episodeId": 6,
+        "texts": [
+          {
+            "id": 16,
+            "title": "Rescue of Han Solo",
+            "content": "Luke Skywalker and his friends undertake a daring mission to rescue Han Solo from Jabba the Hutt."
+          },
+          {
+            "id": 17,
+            "title": "Battle of Endor",
+            "content": "The climactic battle between the Rebel Alliance and the Empire's forces on the forest moon of Endor."
+          },
+          {
+            "id": 18,
+            "title": "Redemption of Anakin Skywalker",
+            "content": "Anakin Skywalker's redemption and sacrifice to save his son, Luke, and destroy the Emperor."
+          }
+        ],
+        "images": [
+          "https://static.wikia.nocookie.net/starwars/images/4/4a/Khetanna_boom.png",
+          "https://static.wikia.nocookie.net/starwars/images/9/91/BattleofEndor.png",
+          "https://images.squarespace-cdn.com/content/v1/5fbc4a62c2150e62cfcb09aa/1668305251274-H5U5C00NI9QPAJ3WV51U/threeanis.jpg"
+        ]
+      }
+    ]
+  }
+  

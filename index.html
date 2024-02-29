@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Wars Fanpage</title>
+
+   
+    <style>
+        .content {
+            overflow: hidden;
+        }
+        .episode {
+            width: calc(50% - 250px);
+            float: left;
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        img {
+            width: 200px;
+            height: auto;
+            float: right;
+            margin-left: 20px;
+        }
+        h2 {
+            font-family: 'Roboto', sans-serif;
+            font-weight: bold;
+            font-size: 24px;
+            color: #FFFFFF;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        a {
+            font-family: 'Roboto', sans-serif;
+            font-weight: bold;
+            font-size: 24px;
+            color: #FFFFFF;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        button {
+            font-family: 'Roboto', sans-serif;
+            font-weight: bold;
+            font-size: 12px;
+            color: #000000;
+        }
+    </style>
+
+</head>
+<body>
+
+<nav class="navbar">
+    <a href="author.html">About the Author</a>
+</nav>
+
+<div class="content">
+    <h1>Welcome to the Star Wars Fanpage</h1>
+    <div class="episode" id="episode1">
+        <h2>Episode 1: The Phantom Menace</h2>
+        <button onclick="window.location.href='episode1.html';">Go to Episode 1</button>
+    </div>
+    <div class="episode" id="episode2">
+        <h2>Episode 2: Attack of the Clones</h2>
+        <button onclick="window.location.href='episode2.html';">Go to Episode 2</button>
+    </div>
+    <div class="episode" id="episode3">
+        <h2>Episode 3: Revenge of the Sith</h2>
+        <button onclick="window.location.href='episode3.html';">Go to Episode 3</button>
+    </div>
+
+    <div class="episode" id="episode4">
+        <h2>Episode 4: A New Hope</h2>
+        <button onclick="window.location.href='episode4.html';">Go to Episode 4</button>
+    </div>
+    <div class="episode" id="episode5">
+        <h2>Episode 5: The Empire Strikes Back</h2>
+        <button onclick="window.location.href='episode5.html';">Go to Episode 5</button>
+    </div>
+    <div class="episode" id="episode6">
+        <h2>Episode 6: Return of the Jedi</h2>
+        <button onclick="window.location.href='episode6.html';">Go to Episode 6</button>
+    </div>
+</div>
+
+<script src="index.js" defer></script>
+</body>
+</html>
